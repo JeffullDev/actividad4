@@ -1,3 +1,4 @@
+
 Actividad 4 - Sistema CRUD MVC con PHP y MySQL (Patrón Singleton)
 📝 Descripción del Proyecto
 Implementación profesional de un sistema CRUD para gestión de productos y marcas, desarrollado bajo el patrón MVC con:
@@ -73,12 +74,12 @@ Composer (recomendado para futuras mejoras)
 Clonar repositorio:
 
 bash
-git clone [url-repositorio]
+git clone [https://github.com/JeffullDev/actividad4.git]
 cd actividad-4
 Configurar base de datos:
 
 bash
-mysql -u [usuario] -p < sql/actividad-4.sql
+mysql -u [root] -p < sql/actividad-4.sql
 Verificar credenciales en:
 
 php
@@ -111,4 +112,6 @@ Haz push a la rama (git push origin feature/mejora)
 Abre un Pull Request
 
 📄 Licencia
-MIT License - Copyright (c) 2023 [Tu Nombre]
+MIT License - Copyright (c) 2025 Jeffry Lopez
+
+
